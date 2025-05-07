@@ -11,7 +11,7 @@ Q&A System is a production-ready application that connects users with AI-powered
 - **Natural Language Processing**: Submit questions in everyday language and receive intelligent responses
 - **Real-time Interaction**: Get instant answers with minimal latency
 - **Conversation History**: Review past interactions with an organized, collapsible history panel
-- **Persistent Storage**: Conversations saved locally for privacy and convenience
+- **Persistent Storage**: Conversations are saved locally for privacy and convenience
 - **Responsive Design**: Optimized for all device sizes from mobile to desktop
 
 ## 🔧 Technology Stack
